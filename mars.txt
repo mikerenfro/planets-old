@@ -6,3 +6,4 @@ Here's a line where GitHub got ahead of the local
 Funke is my very good friend
 This is my line
 Here's another change.
+Yet another change.
